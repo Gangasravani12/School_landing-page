@@ -89,7 +89,7 @@
     margin-top: 20px;
     
 }
-.header-logo h1, .header-logo h2, .header-logo h10 {
+.header-logo h1, .header-logo h2{
   margin-left: 150px;
   font-weight: bold;
   color: rgb(84, 97, 215);
@@ -104,9 +104,11 @@
   margin-left: 220px;
 }
 
-.header-logo .h10 {
+.header-logo h10 {
   margin-top: 10px;
-  margin-left: -90px;
+  font-weight: bold;
+    margin-left: 150px;
+  color: rgb(84, 97, 215);
 }
 
 .header-tags {
@@ -389,7 +391,7 @@ i{
 }
 .location{
   width: 100%;
-  height: 1150px;
+  height: 1250px;
   background-color: navy;
 }
 .location img{
